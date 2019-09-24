@@ -1,0 +1,61 @@
+body{
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  margin-left: 80px;
+}
+
+
+.box1{
+	height:100px;
+	width:100px;
+	background:yellow;
+}
+
+.box2{
+	height:100px;
+	width:100px;
+	background:red;
+}
+.box3{
+	height:100px;
+	width:100px;
+	background:green;
+}
+.box4{
+	height:100px;
+	width:100px;
+	background:white;
+}
+.box5{
+	height:100px;
+	width:100px;
+	background:purple;
+}
+.box6{
+	height:100px;
+	width:100px;
+	background:blue;
+}
+.box7{
+	height:100px;
+	width:100px;
+	background:brown;
+}
+.box8{
+	height:100px;
+	width:100px;
+	background:orange;
+}
+.box9{
+	height:100px;
+	width:100px;
+	background:pink;
+}
+
+.row{
+	display: flex;
+
+}
